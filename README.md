@@ -93,6 +93,10 @@ pip install pandas numpy scikit-learn matplotlib seaborn prophet statsmodels jup
 - **Infrastructure Planning:** Pothole and parking violation trends assist in budget allocation.  
 - **Public Safety Improvements:** Forecasting emergency service demands for better resource distribution.  
 
+<video width="600" controls>
+  <source src="media/Syracuse_City_Lie_Video" type="video/mp4">
+</video>
+
 ---
 
 ## 📢 Let's Connect!  
