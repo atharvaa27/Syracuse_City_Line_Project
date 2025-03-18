@@ -96,9 +96,7 @@ pip install pandas numpy scikit-learn matplotlib seaborn prophet statsmodels jup
 ![Graph](media/Graph.png)
 ![House](media/House.png)
 ![Pointer](media/Pointers.png)
-<video width="600" controls>
-  <source src="media/Syracuse_City_Line.mp4" type="video/mp4">
-</video>
+[Video](media/Syracuse_City_Line.mp4)
 
 ---
 
