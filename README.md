@@ -96,7 +96,6 @@ pip install pandas numpy scikit-learn matplotlib seaborn prophet statsmodels jup
 ![Graph](media/Graph.png)
 ![House](media/House.png)
 ![Pointer](media/Pointers.png)
-[Video](media/Syracuse_City_Line.mp4)
 
 ---
 
